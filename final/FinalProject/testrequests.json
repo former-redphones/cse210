@@ -1,0 +1,4 @@
+[
+    {"RequestType":"test-json","Data":{"message":"this is a test"}},
+    {"RequestType":"counter"}
+]
